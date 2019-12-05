@@ -25,6 +25,7 @@ public class HammingDist {
 		//loops through arraylist comparing each station
 		for (String s: stations) {
 			
+			
 			int currentHam = 0;
 			charStation = s.toCharArray();
 			
