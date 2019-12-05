@@ -37,6 +37,7 @@ public class HammingDist {
 					currentHam++;
 			}
 			
+			
 			//if counter equals the ham distance we want then add the current station to the return array
 			if (hamDist == currentHam)
 				returnArray.add(s);
