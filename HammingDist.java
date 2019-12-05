@@ -26,6 +26,7 @@ public class HammingDist {
 		for (String s: stations) {
 			
 			
+			
 			int currentHam = 0;
 			charStation = s.toCharArray();
 			
