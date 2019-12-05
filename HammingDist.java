@@ -43,6 +43,7 @@ public class HammingDist {
 				returnArray.add(s);
 		}
 		return returnArray;
+		
 	}
 	
 	
